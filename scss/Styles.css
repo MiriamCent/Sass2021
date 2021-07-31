@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/** Colores*/
+/** fuentes*/
+/** Tamaño*/
+.footer {
+  height: 300px;
+  width: 100%;
+  background-color: red;
+}
+
+.title {
+  background-color: red;
+}
+
+.blog {
+  height: auto;
+}
+
+.blog .art {
+  background-color: red;
+}
+
+.blog .art .subTitle {
+  color: blue;
+  font-size: "Alegreya", serif;
+}
+/*# sourceMappingURL=Styles.css.map */
